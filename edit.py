@@ -1,3 +1,5 @@
+# this program is under file handling
+
 f = open('Mydata', 'r')         #to read data writtrn in MyData file
 
 

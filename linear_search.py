@@ -6,7 +6,7 @@ def search(list, n):
     while i < len(list):
         if n ==list[i]:
             global pos                  #globals()['pos']=i
-            pos = n
+            pos = i
             return True
         i = i + 1
 
